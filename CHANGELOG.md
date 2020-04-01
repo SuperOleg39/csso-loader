@@ -1,3 +1,7 @@
+# 1.0.0
+
+* Updated CSSO version to 4.0.0
+
 # 0.3.0
 
 * Updated CSSO version to 3.0.0

@@ -37,15 +37,8 @@ describe('csso-loader', function() {
     testLoader(complexInput, restructuredOutput);
   });
 
-  it('should return original css in case of error input', function() {
-    testLoader(invalidInput, invalidInput);
-  });
-
-  it('should throw error to console in case of error input', function() {
-    testLoaderOutput(
-      invalidInput,
-      ' \nCssSyntaxError : Colon is expected\nLine: 1\nColumn: 17'
-    );
+  it('should return empty string in case of invalid input', function() {
+    testLoader(invalidInput, '');
   });
 
   it('should return debug information in case of debug parameter', function() {
