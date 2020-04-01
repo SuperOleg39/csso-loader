@@ -1,6 +1,6 @@
 # csso-loader
 [![NPM version](https://img.shields.io/npm/v/csso-loader.svg)](https://www.npmjs.com/package/csso-loader)
-[![Build Status](https://img.shields.io/travis/sandark7/csso-loader.svg)](https://travis-ci.org/sandark7/csso-loader)
+[![Build Status](https://img.shields.io/travis/SuperOleg39/csso-loader.svg)](https://travis-ci.org/SuperOleg39/csso-loader)
 [![Dependency Status](https://img.shields.io/gemnasium/sandark7/csso-loader.svg)](https://gemnasium.com/sandark7/csso-loader)
 [![NPM downloads](https://img.shields.io/npm/dm/csso-loader.svg)](https://www.npmjs.com/package/csso-loader)
 [![Code Climate](https://codeclimate.com/github/sandark7/csso-loader/badges/gpa.svg)](https://codeclimate.com/github/sandark7/csso-loader)
